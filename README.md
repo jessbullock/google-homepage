@@ -4,7 +4,8 @@
 
 <body>
 
-<h1>Google Homepage</h1>
-<p><a href="http://www.theodinproject.com/web-development-101/html-css">The Odin Project</a></p>
+<h1>HTML/CSS Project: Google Homepage</h1>
+<p><strong>Goal:</strong> Build a clone of Google's homepage.</p>
+<p><a href="http://www.theodinproject.com/web-development-101/html-css">Link to the Project on The Odin Project</a></p>
 
 </body>
